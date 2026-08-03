@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "bullmq": "^6.0.3",
-    "ioredis": "^5.11.1"
+    "ioredis": "^6.0.0"
   },
   "devDependencies": {
     "typescript": "^7.0.2"
